@@ -4,7 +4,8 @@ Inpsyde test project
 
 ## Installation
 
-As usual, just Upload the ‘inpsydehadi’ plugin to the /wp-content/plugins/ directory;
+* Upload the ‘inpsydehadi’ plugin to the /wp-content/plugins/ directory;
+* Run composer install , and ready to activate
 
 
 
